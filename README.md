@@ -67,4 +67,4 @@ npm run dev - or better than this you can go to https://app-gym-frontend.vercel.
 
 ## License
 
-It's free, for now... :smiley: :smiley:# gym-backend-app
+It's free, for now... :smiley: :smiley:
